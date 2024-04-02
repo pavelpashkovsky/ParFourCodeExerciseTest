@@ -1,2 +1,3 @@
-# ParFourCodeExerciseTest
-ParFourCodeExercise
+# Test app
+
+![app screenshot](./screenshot.png)
